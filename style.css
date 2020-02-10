@@ -1,0 +1,18 @@
+body {
+  background-image: url("c_breezy.png");
+}
+
+.clockStyle {
+  background-color: rgba(55, 14, 61);
+  border: #999 2px inset;
+  padding: 6px;
+  color: rgb(236, 116, 247);
+  font-family: arial, sans-serif;
+  font-size: 16px;
+  font-weight: bold;
+  letter-spacing: 2px;
+  display: inline;
+  position: absolute;
+  margin-left: 625px;
+  margin-top: 480px;
+}
